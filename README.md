@@ -11,16 +11,27 @@ An app which helps a traffic police to add charges , check drivers punishment hi
 
 # App UI
 
-![1634323306469](https://user-images.githubusercontent.com/81440732/137537439-2d1ff012-2673-4416-afc4-622342de62a4.jpg)
-![1634323306465](https://user-images.githubusercontent.com/81440732/137537531-dd95e700-18d1-44ce-a38b-7a9ede02786e.jpg)
-![1634323306436](https://user-images.githubusercontent.com/81440732/137537551-09e2e341-8e8d-4973-ba0d-ffb3d63f817c.jpg)
-![1634323306440](https://user-images.githubusercontent.com/81440732/137537555-6299b5c9-7875-4141-b3ad-2767d02ec088.jpg)
-![1634323306445](https://user-images.githubusercontent.com/81440732/137537559-10c59682-01f3-4c1b-8b2a-9063daa8445d.jpg)
-![1634323306450](https://user-images.githubusercontent.com/81440732/137537562-74558147-6c56-4ec5-98cd-76c9fb08100a.jpg)
-![1634323306454](https://user-images.githubusercontent.com/81440732/137537566-655e71a7-309d-4099-8cd0-bb821ef5011b.jpg)
-![1634323306457](https://user-images.githubusercontent.com/81440732/137537568-37326022-07f3-4776-9fe3-80375a551916.jpg)
-![1634323306461](https://user-images.githubusercontent.com/81440732/137537572-792b82ff-59eb-4ede-806c-fee5351c1030.jpg)
-![1634323306414](https://user-images.githubusercontent.com/81440732/137537575-800b9b25-56fe-45a8-b5f3-2333d3866cf4.jpg)
-![1634323306422](https://user-images.githubusercontent.com/81440732/137537578-ad4e5a63-47e7-44ed-9669-b81aef9e5ef2.jpg)
-![1634323306426](https://user-images.githubusercontent.com/81440732/137537582-272e958f-78de-45c3-8d79-7d4beb93886d.jpg)
-![1634323306431](https://user-images.githubusercontent.com/81440732/137537584-0d117c47-e5e7-42cc-a506-db81e8189b28.jpg)
+
+
+![1634323306469](https://user-images.githubusercontent.com/81440732/137537905-e004b175-6af3-4fdf-90ed-54e613742026.png)
+![1634323306465](https://user-images.githubusercontent.com/81440732/137537909-0cb264c5-b300-4316-a744-03661185bd84.png)
+
+![1634323306461](https://user-images.githubusercontent.com/81440732/137537934-f9a45666-de4d-41ea-96e3-6fd1340bcf76.png)
+![1634323306454](https://user-images.githubusercontent.com/81440732/137537900-3c047287-5390-4874-8332-cc698b0a753f.png)
+
+
+![1634323306457](https://user-images.githubusercontent.com/81440732/137537914-4b8cf1d2-ef53-4d0c-ae56-14e1b65daf04.png)
+![1634323306450](https://user-images.githubusercontent.com/81440732/137539110-5e51a142-6314-4748-a0af-5ce723057c5c.png)
+
+![1634323306436](https://user-images.githubusercontent.com/81440732/137539119-a80cd62c-ce10-46a7-b354-9847cf1570e6.png)
+![1634323306440](https://user-images.githubusercontent.com/81440732/137539125-ae3d9742-796e-4022-b53c-6abbcfb86337.png)
+
+![1634323306445](https://user-images.githubusercontent.com/81440732/137539138-86df7293-4743-4435-ba23-90e9bdb2c87e.png)
+![1634323306431](https://user-images.githubusercontent.com/81440732/137539203-f1eec92d-d7a7-4517-996a-732e62823ba4.png)
+
+![1634323306426](https://user-images.githubusercontent.com/81440732/137539326-c04534ae-e5e0-4670-8a50-108ff5687b9c.png)
+![1634323306422](https://user-images.githubusercontent.com/81440732/137539336-94011f62-4d4c-42fc-a644-5c0717876106.png)
+
+![1634323306414](https://user-images.githubusercontent.com/81440732/137539341-e336cb0d-e9fa-400c-bad2-b67ae9013cc6.png)
+
+
