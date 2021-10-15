@@ -1,6 +1,6 @@
-Admin : admin, 12345
-Police : mohiuddin , 4321
-Driver: emon12, 12345
+(Admin Profile: admin, 12345)
+(Police Profile: mohiuddin , 4321)
+(Driver Profile: emon12, 12345)
 # TrafficInfo Android
 An app which helps a traffic police to add charges , check drivers punishment histories and vehicle information. 
 - User panel, Traffic Police panel and admin panel. 
